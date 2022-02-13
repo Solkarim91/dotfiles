@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = solkarimlive@hotmail.co.uk
+	name = Solomon Karim
